@@ -1,0 +1,10 @@
+code: exampleplugin-bundle
+description: This is the exampleplugin bundle
+
+components:
+  plugins:
+    - plugins/exampleplugin-plugin.yaml
+
+  widgets:
+# entando-needle-descriptor-add-widgets - Entando blueprint will add widget bundle files here
+
